@@ -4,3 +4,5 @@ My first attempt to git
 Author- Priyanshu Kumar
 <br>
 aka PiriPiri
+<br>
+Hi Im learning the environment variables, integrating vscode to my github account
